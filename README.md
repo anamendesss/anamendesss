@@ -48,5 +48,5 @@ Busco continuar evoluindo na área de Tecnologia da Informação, aprimorando me
 
 ## Contato
 
-- **LinkedIn:** [Meu LinkedIn](COLOCAR_LINK)
-- **GitHub:** [Meu GitHub](COLOCAR_LINK)
+- **LinkedIn:** https://www.linkedin.com/in/anabmendes
+
